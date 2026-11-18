@@ -3,8 +3,7 @@
 
 **Desenvolvedor:** Matheus Silva  
 **Ferramentas:** Editor Programa CLP (Open Watcom IDE), LibreOffice Draw (Branqs Extension), Simulador DOSShell/DOSBox, Framework CLP Branqs v02r03 (bcv03r88)  
-**Auditoria & Apoio:** Antigravity (Sistema Sentinela v2.0)  
-**Status do Projeto:** Rank A – Compilado, Validado e Pronto para Deploy
+**Auditoria & Apoio:** Antigravity 
 
 ---
 
