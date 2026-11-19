@@ -102,4 +102,3 @@ Durante a auditoria socrática da base de código inicial, foram identificados e
 
 ---
 
-**Veredito:** Projeto 100% aderente às normas técnicas e especificações da Branqs Automação. Evidência comprovada.
